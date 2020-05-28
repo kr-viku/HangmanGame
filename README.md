@@ -11,6 +11,10 @@ hand, if the other player makes enough incorrect guesses to allow his opponent t
 with the guesser losing. However, the guesser can also win by guessing all the letters that appear in the word, thereby completing the 
 word, before the diagram is completed.
 
+#Flow Chart 
+
+![](hangman.png)
+
 # Strategy
 
 The fact that the twelve most commonly occurring letters in the English language are e-t-a-o-i-n-s-h-r-d-l-u (from most to least), along with other letter-frequency lists, are used by the guessing player to increase the odds when it is their turn to guess. On the other hand, the same lists can be used by the puzzle setter to stump their opponent by choosing a word that deliberately avoids common letters (e.g. rhythm or zephyr) or one that contains rare letters (e.g. jazz).
