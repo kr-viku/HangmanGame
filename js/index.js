@@ -8,7 +8,7 @@ const finalMessgeRevealWord=document.getElementById("final-message-revel-word");
 
 const figureParts=document.querySelectorAll(".figure-part");
 // console.log(figureParts);
-const words=["application","programming","wizard","interface"];
+const words=["application","programming","wizard","interface","html","female","male","end","cool"];
 
 let selectedWord=words[Math.floor(Math.random()*words.length)];
 
