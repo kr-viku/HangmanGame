@@ -11,7 +11,7 @@ hand, if the other player makes enough incorrect guesses to allow his opponent t
 with the guesser losing. However, the guesser can also win by guessing all the letters that appear in the word, thereby completing the 
 word, before the diagram is completed.
 
-#Flow Chart 
+# Flow Chart 
 
 ![](hangman.png)
 
